@@ -1,4 +1,4 @@
-# PokemonGame 🎮qu
+# PokemonGame 🎮
 jeu de quizz pokémon, petit exercice JS. 
 Le but ici est de s'entrainer à utiliser JS pour un petit projet personnel. 
 
@@ -6,7 +6,7 @@ Le but ici est de s'entrainer à utiliser JS pour un petit projet personnel.
 # but du jeu 
 Il faut écrire correctement le nom du pokémon affiché pour passé au suivant. 
 
-changement à venir
+changement à venir ⚙
 
 -> possibilité de changer de pokémon sans avoir trouvé celui d'avant. ⏭
 -> possibilité d'avoir un tirage de 10/20/50 pokémons au hasard. 🎲
